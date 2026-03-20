@@ -1,6 +1,6 @@
 {
   "name": "pi-automode",
-  "version": "0.1.16",
+  "version": "0.1.17",
   "description": "Think Claude Code's auto mode but for pi (and oh-my-pi). Selectable model, sensible defaults.",
   "main": "src/index.ts",
   "scripts": {
